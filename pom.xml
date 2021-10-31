@@ -22,6 +22,7 @@
     </build>
     <modules>
         <module>web</module>
+        <module>searchTest</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
